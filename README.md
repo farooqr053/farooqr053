@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @farooqr053
-- 👀 I’m interested in programming, duh!
+- 👀 I’m interested in... programming, duh!
 - 🌱 I’m currently learning `insert whatever I'm interested in at the moment`
 - 📫 How to reach me `farooqr053@gmail.com`
 - ⚡ Fun fact: spaces > tabs
